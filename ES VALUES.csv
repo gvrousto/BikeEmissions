@@ -1,0 +1,23 @@
+,"Stationbased, characterization",Impact category,Unit,Total,Bicycle manufacturing,Station manufacturing,Dock manufacturing,Rebalancing,Maintenance,Bicycle disposal,Station disposal,Dock disposal
+0,,Ozone depletion,kg CFC-11 eq,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1,,Global warming,kg CO2 eq,2154.74,34.26,1832.54,81.70,2.13,22.64,6.99,174.33,0.15
+2,,Smog,kg O3 eq,136.64,3.10,120.23,4.65,0.21,0.92,0.12,7.41,0.01
+3,,Acidification,kg SO2 eq,16.15,0.23,13.91,0.40,0.01,0.07,0.00,1.52,0.00
+4,,Eutrophication,kg N eq,9.54,0.02,8.88,0.55,0.00,0.01,0.00,0.08,0.00
+5,,Carcinogenics,CTUh,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+6,,Non carcinogenics,CTUh,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+7,,Respiratory effects,kg PM2.5 eq,2.47,0.03,2.28,0.04,0.00,0.01,0.00,0.11,0.00
+8,,Ecotoxicity,CTUe,6334.72,92.03,5476.87,630.71,0.77,18.87,7.44,107.87,0.16
+9,,Fossil fuel depletion,MJ surplus,2593.18,68.30,2211.33,121.83,4.01,44.74,1.06,141.73,0.17
+10,,,,0.00,,,,,,,,
+11,"Dockless, characterization",Impact category,Unit,Total,Bicycle manufacturing,Station manufacturing,Dock manufacturing,Rebalancing,Maintenance,Bicycle disposal,Station disposal,Dock disposal
+12,,Ozone depletion,kg CFC-11 eq,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+13,,Global warming,kg CO2 eq,85.86,53.02,0.00,0.00,2.13,23.21,7.50,0.00,0.00
+14,,Smog,kg O3 eq,5.52,4.23,0.00,0.00,0.21,0.94,0.14,0.00,0.00
+15,,Acidification,kg SO2 eq,0.44,0.35,0.00,0.00,0.01,0.08,0.01,0.00,0.00
+16,,Eutrophication,kg N eq,0.11,0.10,0.00,0.00,0.00,0.01,0.00,0.00,0.00
+17,,Carcinogenics,CTUh,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+18,,Non carcinogenics,CTUh,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+19,,Respiratory effects,kg PM2.5 eq,0.06,0.05,0.00,0.00,0.00,0.01,0.00,0.00,0.00
+20,,Ecotoxicity,CTUe,174.01,146.06,0.00,0.00,0.77,19.35,7.84,0.00,0.00
+21,,Fossil fuel depletion,MJ surplus,141.42,90.18,0.00,0.00,4.01,45.85,1.37,0.00,0.00
